@@ -1,0 +1,110 @@
+.rect {
+    
+    margin-top: 2em;
+     margin-left: 5em;
+    margin-right: 5em;
+    height:40em;
+    width:85em;
+    border-width: 1px;
+    border:2px solid black;
+    padding: 1em;
+  }
+  .Event{
+      text-align: center;
+      font-size: 30px;
+      font-weight: 200;
+  }
+.Num{
+      text-align: center;
+      font-size:30px;
+      margin: 5px;
+  }
+ .rect2{
+     margin-top: 3.5em;
+     margin-bottom: 3.5em;
+     margin-left:2em;
+     margin-right:2em;
+     height:25em;
+    width:79em;
+     border-width: 1px;
+    border:2px solid black;
+    padding: 1em;
+ }
+ .col-1{
+    height:20em;
+    width:17.5em;
+    border-width: 1px;
+    border:2px solid black;
+    margin-top:3em;
+    margin-left:5em;
+    margin-bottom:7em;
+ }
+ .circle
+ {
+     margin-bottom: 2.5em;
+     margin-top: 3.5em;
+     margin-left: 3.5em;
+     margin-right: 5.5em;
+     height:200px;
+     width:150px;
+     border-radius: 80%;
+     border:2px solid black;
+
+ }
+ .col-2{
+    text-align: center;
+    margin-top:-24em;
+    margin-left:30em;
+    font-size: 1.2em;
+    font-weight: 500;
+    
+}
+ input
+ {
+     width:600px;
+     height:30px;
+     border-radius: 1px;
+     border: 1.7px solid black;
+
+ }
+ .set{
+    width:200px;
+    height:30px;
+ }
+ .ph
+ {
+    margin-left: -32.5px;
+    
+ }
+ .numb
+ {
+    margin-left: -478px;
+    
+ }
+ .att
+ {
+    margin-left: -102px;
+ }
+ .submit{
+     width: 9.5em;
+     height:3em;
+     margin-left: -500.5px;
+     margin-top: 25px;
+     background-color: white;
+    border:1px solid black;
+ }
+ .cancel{
+    width: 9.5em;
+    height:3em;
+    margin-right:80px;
+    margin-left: 20px;
+    background-color: white;
+    border:1px solid black;
+}
+.img{
+    text-align: center;
+    margin-top: 80px;
+    margin-left: -5px;
+    font-size:30px;
+    font-weight: 500;
+}
